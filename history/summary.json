@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 76,
+    "timeDay": 60,
     "timeWeek": 70,
     "timeMonth": 123,
     "timeYear": 111,
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 520,
-    "timeWeek": 283,
+    "timeDay": 233,
+    "timeWeek": 270,
     "timeMonth": 209,
-    "timeYear": 226,
+    "timeYear": 227,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 248,
-    "timeDay": 180,
-    "timeWeek": 199,
-    "timeMonth": 211,
+    "timeDay": 316,
+    "timeWeek": 219,
+    "timeMonth": 218,
     "timeYear": 246,
     "dailyMinutesDown": {}
   },
@@ -65,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 406,
-    "timeDay": 359,
-    "timeWeek": 395,
-    "timeMonth": 341,
+    "timeDay": 403,
+    "timeWeek": 402,
+    "timeMonth": 342,
     "timeYear": 406,
     "dailyMinutesDown": {}
   },
@@ -101,7 +101,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 39,
-    "timeDay": 13,
+    "timeDay": 11,
     "timeWeek": 12,
     "timeMonth": 82,
     "timeYear": 41,
@@ -113,7 +113,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "35.18%",
+    "uptime": "35.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -124,7 +124,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-23": 5,
+      "2022-04-24": 6,
+      "2022-04-23": 1440,
       "2022-04-22": 1440,
       "2022-04-21": 1440,
       "2022-04-20": 1440,
@@ -487,8 +488,7 @@
       "2021-04-28": 1440,
       "2021-04-27": 1440,
       "2021-04-26": 1440,
-      "2021-04-25": 1440,
-      "2021-04-24": 1440
+      "2021-04-25": 1440
     }
   },
   {
@@ -503,8 +503,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 80,
-    "timeDay": 47,
-    "timeWeek": 55,
+    "timeDay": 52,
+    "timeWeek": 54,
     "timeMonth": 76,
     "timeYear": 81,
     "dailyMinutesDown": {}
