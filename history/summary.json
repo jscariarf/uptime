@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 107,
-    "timeDay": 75,
-    "timeWeek": 77,
+    "timeDay": 68,
+    "timeWeek": 78,
     "timeMonth": 85,
     "timeYear": 110,
     "dailyMinutesDown": {}
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
-    "timeDay": 119,
-    "timeWeek": 200,
-    "timeMonth": 213,
-    "timeYear": 227,
+    "timeDay": 507,
+    "timeWeek": 238,
+    "timeMonth": 212,
+    "timeYear": 228,
     "dailyMinutesDown": {}
   },
   {
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 252,
-    "timeDay": 559,
-    "timeWeek": 341,
+    "timeDay": 189,
+    "timeWeek": 343,
     "timeMonth": 300,
     "timeYear": 247,
     "dailyMinutesDown": {}
@@ -65,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 399,
-    "timeDay": 68,
-    "timeWeek": 241,
-    "timeMonth": 295,
+    "timeDay": 337,
+    "timeWeek": 239,
+    "timeMonth": 294,
     "timeYear": 400,
     "dailyMinutesDown": {}
   },
@@ -101,7 +101,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 38,
-    "timeDay": 18,
+    "timeDay": 12,
     "timeWeek": 18,
     "timeMonth": 22,
     "timeYear": 41,
@@ -113,7 +113,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "33.61%",
+    "uptime": "33.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -124,7 +124,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-22": 6,
+      "2022-05-23": 6,
+      "2022-05-22": 1440,
       "2022-05-21": 1440,
       "2022-05-20": 1440,
       "2022-05-19": 1440,
@@ -487,8 +488,7 @@
       "2021-05-27": 1440,
       "2021-05-26": 1440,
       "2021-05-25": 1440,
-      "2021-05-24": 1440,
-      "2021-05-23": 1440
+      "2021-05-24": 1440
     }
   },
   {
@@ -503,8 +503,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 79,
-    "timeDay": 64,
-    "timeWeek": 53,
+    "timeDay": 49,
+    "timeWeek": 50,
     "timeMonth": 55,
     "timeYear": 78,
     "dailyMinutesDown": {}
