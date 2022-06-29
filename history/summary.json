@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 105,
-    "timeDay": 82,
-    "timeWeek": 68,
-    "timeMonth": 81,
+    "timeDay": 90,
+    "timeWeek": 74,
+    "timeMonth": 80,
     "timeYear": 109,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 221,
-    "timeDay": 77,
-    "timeWeek": 266,
-    "timeMonth": 242,
+    "time": 220,
+    "timeDay": 115,
+    "timeWeek": 250,
+    "timeMonth": 235,
     "timeYear": 231,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 259,
-    "timeDay": 379,
-    "timeWeek": 244,
-    "timeMonth": 351,
+    "timeDay": 225,
+    "timeWeek": 256,
+    "timeMonth": 331,
     "timeYear": 254,
     "dailyMinutesDown": {}
   },
@@ -65,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 387,
-    "timeDay": 225,
-    "timeWeek": 294,
-    "timeMonth": 249,
+    "timeDay": 97,
+    "timeWeek": 250,
+    "timeMonth": 248,
     "timeYear": 383,
     "dailyMinutesDown": {}
   },
@@ -101,9 +101,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 37,
-    "timeDay": 15,
-    "timeWeek": 15,
-    "timeMonth": 18,
+    "timeDay": 105,
+    "timeWeek": 29,
+    "timeMonth": 21,
     "timeYear": 41,
     "dailyMinutesDown": {}
   },
@@ -113,7 +113,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "31.80%",
+    "uptime": "31.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -124,7 +124,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-28": 7,
+      "2022-06-29": 6,
+      "2022-06-28": 1440,
       "2022-06-27": 1440,
       "2022-06-26": 1440,
       "2022-06-25": 1440,
@@ -487,8 +488,7 @@
       "2021-07-03": 1440,
       "2021-07-02": 1440,
       "2021-07-01": 1440,
-      "2021-06-30": 1440,
-      "2021-06-29": 1440
+      "2021-06-30": 1440
     }
   },
   {
@@ -503,9 +503,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 78,
-    "timeDay": 83,
-    "timeWeek": 52,
-    "timeMonth": 77,
+    "timeDay": 43,
+    "timeWeek": 50,
+    "timeMonth": 76,
     "timeYear": 75,
     "dailyMinutesDown": {}
   }
